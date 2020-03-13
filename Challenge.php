@@ -26,7 +26,7 @@ class prints_numbers{
 $array = array(15=>"Linianos", 3=>"Linio", 5=>"IT");
 $start = 1;
 $end = 100;
-$result = prints_numbers::get_numbers($array, $start, $end);
+$result = prints_numbers::get_numbers($array, $start, $end); 
 
 
 echo "<pre>";
